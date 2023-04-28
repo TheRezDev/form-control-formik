@@ -1,0 +1,16 @@
+{
+   "users": [
+      {
+         "id":"1",
+         "name": "Reza Yousefi",
+         "email": "the.rez.dev@gmail.com",
+         "phoneNumber": "09203091038",
+         "password": "Man@251363",
+         "passwordConfirm": "Man@251363",
+         "gender": "1",
+         "nationality": "US",
+         "interests": ["React.js"],
+         "terms": false
+      }
+   ]
+}
